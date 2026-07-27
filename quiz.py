@@ -10,9 +10,9 @@ from platform import machine
 
 print(machine())
 
-from platform import processor
+from platform import processo
 
-print(processor())
+print(processo())
 from platform import system
 
 print(system())
